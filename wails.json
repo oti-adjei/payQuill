@@ -8,5 +8,11 @@
   "author": {
     "name": "George Heavenson Jnr. Oti-Adjei",
     "email": "jrgeorge991@outlook.com"
+  },
+  "window": {
+    "width": 1280,
+    "height": 720,
+    "minWidth": 800,
+    "minHeight": 600
   }
 }
